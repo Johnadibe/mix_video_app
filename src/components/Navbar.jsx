@@ -22,7 +22,7 @@ const Navbar = () => (
                     ml: '20px',
                     display: { xs: 'none', md: 'block'}
                 }}>
-                VidMix
+                Vid
                 </Typography>
             </span>
             <span>
@@ -30,10 +30,9 @@ const Navbar = () => (
                     fontSize: '25px',
                     fontWeight: 'bold',
                     color: '#FF0000',
-                    ml: '5px',
                     display: { xs: 'none', md: 'block'}
                 }}>
-                    Hub
+                    Mix
                 </Typography>
             </span>
         </Link>
